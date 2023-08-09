@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityFALSE.App", "SingleResponsibility.App\SingleResponsibilityFALSE.App.csproj", "{3767C8CE-ED8A-4B22-92E0-8CDE03859B9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityTRUE.App", "SingleResponsibilityTRUE.App\SingleResponsibilityTRUE.App.csproj", "{90EC78CB-E0F2-4D91-B039-56F8632086F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3767C8CE-ED8A-4B22-92E0-8CDE03859B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3767C8CE-ED8A-4B22-92E0-8CDE03859B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3767C8CE-ED8A-4B22-92E0-8CDE03859B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3767C8CE-ED8A-4B22-92E0-8CDE03859B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90EC78CB-E0F2-4D91-B039-56F8632086F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EC78CB-E0F2-4D91-B039-56F8632086F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EC78CB-E0F2-4D91-B039-56F8632086F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EC78CB-E0F2-4D91-B039-56F8632086F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {390D3F80-1474-4784-828C-4648CA72DA28}
+	EndGlobalSection
+EndGlobal
